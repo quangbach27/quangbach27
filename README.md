@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- 🎓 2 years in web development with a strong foundation in frontend and backend technologies.
+- 🎓 2 years in web development with a strong foundation in React and Spring Framework.
 - 💡 Passionate about building user-centric applications that improve people’s lives.
-- 📚 Currently reskilling in **Go** to deepen backend expertise and build high-performance microservices.
+- 📚 Currently reskilling in **Go** to deepen backend expertise and build high-performance application.
 - 🔭 Always exploring new tools and architectures: cloud-native patterns, and domain-driven design.
 
 ## 💼 Side project
